@@ -1,0 +1,8 @@
+.upp{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 4px;
+    color: black;
+    border-bottom: 1px;
+}

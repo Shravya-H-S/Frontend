@@ -1,0 +1,26 @@
+.first{
+    font-size: 35px;
+    font-style:normal;
+    font-weight: bold;
+    text-align: left;
+    padding: 2%;
+}
+.extra{
+    padding-left:7% ;
+}
+.second{
+    font-style:normal;
+    font-weight: lighter;
+    font-size: 18px;
+    padding-left: 10%;
+    padding-top: 2%;
+}
+.picture{
+    padding-left: 15%;
+}
+.main-container{
+    padding: 2%;
+    width: 400px;
+    padding-left: 14%;
+    
+}
